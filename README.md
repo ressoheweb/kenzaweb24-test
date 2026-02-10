@@ -15,13 +15,13 @@ On GitHub:
 1.	Open the repository page
 2.	Click Code
 3.	Copy the HTTPS URL
-(looks like: https://github.com/username/repo-name.git)
+(looks like: https://github.com/ressoheweb/kenzaweb24-test.git)
 
 3️⃣ Clone the repo
-Open Terminal (macOS/Linux) or Command Prompt / PowerShell (Windows):
-git clone https://github.com/username/repo-name.git
-Example:
-git clone https://github.com/facebook/react.git
+Open Terminal (macOS/Linux) or Command Prompt / PowerShell (Windows)
+
+git clone https://github.com/ressoheweb/kenzaweb24-test.git
+
 This creates a new folder with the repo name.
 
 4️⃣ Move into the project
